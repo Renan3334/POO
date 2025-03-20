@@ -38,5 +38,5 @@ class Cachorro:
         else:
             print(f"{self.nome} não pode brincar, está dormindo...")
 
-cachorro1 = Cachorro("Kiara", "SRD", 20)
+cachorro1 = Cachorro("Kira", "Chow-Chow", 20)
 cachorro1.passear()
